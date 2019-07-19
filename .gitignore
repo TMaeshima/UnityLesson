@@ -260,6 +260,10 @@ paket-files/
 __pycache__/
 *.pyc
 
+
+#完了リスト
+#3-3
+
 # Unity用無視ファイルリスト
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
